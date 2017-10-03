@@ -1,0 +1,1 @@
+  The server at http://localhost:3000, should respond to GET requests for different movie requests with stored data. If data is not stored then, using express, this program pulls movie data from the IMDb API using axios. It then stores the responses for subsequent requests and then responds to the GET request.
